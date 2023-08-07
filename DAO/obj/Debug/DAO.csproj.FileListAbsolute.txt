@@ -1,0 +1,76 @@
+D:\C#\project\circleK-app-project\DAO\bin\Debug\DAO.dll
+D:\C#\project\circleK-app-project\DAO\bin\Debug\DAO.pdb
+D:\C#\project\circleK-app-project\DAO\bin\Debug\DTO.dll
+D:\C#\project\circleK-app-project\DAO\bin\Debug\DTO.pdb
+D:\C#\project\circleK-app-project\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\C#\project\circleK-app-project\DAO\obj\Debug\DAO.Properties.Resources.resources
+D:\C#\project\circleK-app-project\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+D:\C#\project\circleK-app-project\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\C#\project\circleK-app-project\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\C#\project\circleK-app-project\DAO\obj\Debug\DAO.dll
+D:\C#\project\circleK-app-project\DAO\obj\Debug\DAO.pdb
+D:\C#\pj\circleK-app-project\DAO\bin\Debug\DAO.dll
+D:\C#\pj\circleK-app-project\DAO\bin\Debug\DAO.pdb
+D:\C#\pj\circleK-app-project\DAO\bin\Debug\DTO.dll
+D:\C#\pj\circleK-app-project\DAO\bin\Debug\DTO.pdb
+D:\C#\pj\circleK-app-project\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\C#\pj\circleK-app-project\DAO\obj\Debug\DAO.Properties.Resources.resources
+D:\C#\pj\circleK-app-project\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+D:\C#\pj\circleK-app-project\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\C#\pj\circleK-app-project\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\C#\pj\circleK-app-project\DAO\obj\Debug\DAO.dll
+D:\C#\pj\circleK-app-project\DAO\obj\Debug\DAO.pdb
+D:\C#\pj\store-manager-app\DAO\bin\Debug\DAO.dll
+D:\C#\pj\store-manager-app\DAO\bin\Debug\DAO.pdb
+D:\C#\pj\store-manager-app\DAO\bin\Debug\DTO.dll
+D:\C#\pj\store-manager-app\DAO\bin\Debug\DTO.pdb
+D:\C#\pj\store-manager-app\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\C#\pj\store-manager-app\DAO\obj\Debug\DAO.Properties.Resources.resources
+D:\C#\pj\store-manager-app\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+D:\C#\pj\store-manager-app\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\C#\pj\store-manager-app\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\C#\pj\store-manager-app\DAO\obj\Debug\DAO.dll
+D:\C#\pj\store-manager-app\DAO\obj\Debug\DAO.pdb
+C:\Users\buiva\OneDrive\Máy tính\fashion-shop-manager\DAO\bin\Debug\DAO.dll
+C:\Users\buiva\OneDrive\Máy tính\fashion-shop-manager\DAO\bin\Debug\DAO.pdb
+C:\Users\buiva\OneDrive\Máy tính\fashion-shop-manager\DAO\bin\Debug\DTO.dll
+C:\Users\buiva\OneDrive\Máy tính\fashion-shop-manager\DAO\bin\Debug\DTO.pdb
+C:\Users\buiva\OneDrive\Máy tính\fashion-shop-manager\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\buiva\OneDrive\Máy tính\fashion-shop-manager\DAO\obj\Debug\DAO.Properties.Resources.resources
+C:\Users\buiva\OneDrive\Máy tính\fashion-shop-manager\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+C:\Users\buiva\OneDrive\Máy tính\fashion-shop-manager\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\buiva\OneDrive\Máy tính\fashion-shop-manager\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\buiva\OneDrive\Máy tính\fashion-shop-manager\DAO\obj\Debug\DAO.dll
+C:\Users\buiva\OneDrive\Máy tính\fashion-shop-manager\DAO\obj\Debug\DAO.pdb
+C:\Users\Nguyen Cong Chi\Desktop\fashion-shop-manager\DAO\bin\Debug\DAO.dll
+C:\Users\Nguyen Cong Chi\Desktop\fashion-shop-manager\DAO\bin\Debug\DAO.pdb
+C:\Users\Nguyen Cong Chi\Desktop\fashion-shop-manager\DAO\bin\Debug\DTO.dll
+C:\Users\Nguyen Cong Chi\Desktop\fashion-shop-manager\DAO\bin\Debug\DTO.pdb
+C:\Users\Nguyen Cong Chi\Desktop\fashion-shop-manager\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\Nguyen Cong Chi\Desktop\fashion-shop-manager\DAO\obj\Debug\DAO.Properties.Resources.resources
+C:\Users\Nguyen Cong Chi\Desktop\fashion-shop-manager\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+C:\Users\Nguyen Cong Chi\Desktop\fashion-shop-manager\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Cong Chi\Desktop\fashion-shop-manager\DAO\obj\Debug\DAO.dll
+C:\Users\Nguyen Cong Chi\Desktop\fashion-shop-manager\DAO\obj\Debug\DAO.pdb
+C:\Users\buiva\OneDrive\Máy tính\fashion-shop-manager-Chi\DAO\bin\Debug\DAO.dll
+C:\Users\buiva\OneDrive\Máy tính\fashion-shop-manager-Chi\DAO\bin\Debug\DAO.pdb
+C:\Users\buiva\OneDrive\Máy tính\fashion-shop-manager-Chi\DAO\bin\Debug\DTO.dll
+C:\Users\buiva\OneDrive\Máy tính\fashion-shop-manager-Chi\DAO\bin\Debug\DTO.pdb
+C:\Users\buiva\OneDrive\Máy tính\fashion-shop-manager-Chi\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\buiva\OneDrive\Máy tính\fashion-shop-manager-Chi\DAO\obj\Debug\DAO.Properties.Resources.resources
+C:\Users\buiva\OneDrive\Máy tính\fashion-shop-manager-Chi\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+C:\Users\buiva\OneDrive\Máy tính\fashion-shop-manager-Chi\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\buiva\OneDrive\Máy tính\fashion-shop-manager-Chi\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\buiva\OneDrive\Máy tính\fashion-shop-manager-Chi\DAO\obj\Debug\DAO.dll
+C:\Users\buiva\OneDrive\Máy tính\fashion-shop-manager-Chi\DAO\obj\Debug\DAO.pdb
+C:\Users\buiva\OneDrive\Máy tính\new\fashion-shop-manager\DAO\bin\Debug\DAO.dll
+C:\Users\buiva\OneDrive\Máy tính\new\fashion-shop-manager\DAO\bin\Debug\DAO.pdb
+C:\Users\buiva\OneDrive\Máy tính\new\fashion-shop-manager\DAO\bin\Debug\DTO.dll
+C:\Users\buiva\OneDrive\Máy tính\new\fashion-shop-manager\DAO\bin\Debug\DTO.pdb
+C:\Users\buiva\OneDrive\Máy tính\new\fashion-shop-manager\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\buiva\OneDrive\Máy tính\new\fashion-shop-manager\DAO\obj\Debug\DAO.Properties.Resources.resources
+C:\Users\buiva\OneDrive\Máy tính\new\fashion-shop-manager\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+C:\Users\buiva\OneDrive\Máy tính\new\fashion-shop-manager\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\buiva\OneDrive\Máy tính\new\fashion-shop-manager\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\buiva\OneDrive\Máy tính\new\fashion-shop-manager\DAO\obj\Debug\DAO.dll
+C:\Users\buiva\OneDrive\Máy tính\new\fashion-shop-manager\DAO\obj\Debug\DAO.pdb
